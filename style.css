@@ -1,0 +1,17 @@
+ .body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightskyblue;
+    height: 5000px;
+  }
+  .main-pic{
+    width: 600px;
+    margin-right: 50px;
+    margin-left: 10px;
+  }
+  .exterior-design{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px 10px;
+  }
+   
